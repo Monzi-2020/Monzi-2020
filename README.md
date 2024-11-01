@@ -1,4 +1,4 @@
-<h1>Welcome to Roxanne's Portfolio! <br/><a href="https://github.com/joshmadakor1">Microsoft Office 365</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Windows Server</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Microsoft Intune Labs</a>, <a href="https://www.youtube.com/c/joshmadakor">JavaScript Projects</a></h1>
+<h1>Welcome to Roxanne's Portfolio!</h1>
 
 <h2>📄 Certifications:</h2>
 
