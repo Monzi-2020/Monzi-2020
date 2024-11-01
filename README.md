@@ -7,7 +7,7 @@
 
 <h2>🥗 Microsoft Office 365 Lab:</h2>
 
-- <b>User, Licence, and Permissions</b>
+- <b>Managing User, Licence, and Permissions</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Exchange</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
