@@ -1,11 +1,11 @@
 <h1>Welcome to Roxanne's Portfolio!</h1>
 
-<h2>📄 Certifications:</h2>
+<h2>📄 Certifications</h2>
 
 - [CompTIA A+](https://drive.google.com/file/d/1hkMjppI2zEhn9KIWa5w414mk74utirlf/view?usp=sharing)
 - [Google Cybersecurity Certification](https://drive.google.com/file/d/1DBVCvdX_165dDxHl4HTOdMPnH44duMxl/view?usp=sharing)
 
-<h2>🥗 Microsoft Office 365 Lab:</h2>
+<h2>🥗 Microsoft Office 365 Lab</h2>
 
 - <b>Managing User, Licence, and Permissions</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -23,7 +23,7 @@
 - <b>SharePoint & OneDrive</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>👨‍💻 Windows Server Lab:</h2>
+<h2>👨‍💻 Windows Server Lab</h2>
 
 - [Active Directory and Group Policy Complete Course](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Installing and Configuring DNS & DHCP](https://www.youtube.com/watch?v=uHy3oM7NnoU)
